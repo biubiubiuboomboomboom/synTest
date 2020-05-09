@@ -1,7 +1,7 @@
 package main
 
 import (
-	"awesomeProject/helper"
+	"synTest/helper"
 	"bytes"
 	"encoding/json"
 	"fmt"
@@ -9,7 +9,7 @@ import (
 	"net/http"
 	"strconv"
 	"time"
-	"awesomeProject/defs"
+	"synTest/defs"
 )
 
 

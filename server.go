@@ -1,8 +1,8 @@
 package main
 
 import (
-	"awesomeProject/defs"
-	"awesomeProject/helper"
+	"synTest/defs"
+	"synTest/t/helper"
 	"bytes"
 	"encoding/json"
 	"fmt"

@@ -1,7 +1,7 @@
 package helper
 
 import (
-	"awesomeProject/defs"
+	"synTest/defs"
 	"bytes"
 	"encoding/binary"
 	"io"
